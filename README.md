@@ -7,7 +7,7 @@ git clone https://github.com/HappyFee/SSR && cd SSR && bash shadowsocksR.sh
 
 换内核，会重启:
 
-bash kernel.sh
+bash ruisu.sh
 
 启动锐速:
 
