@@ -12,4 +12,6 @@ bash kernel.sh
 启动锐速:
 
 bash serverspeeder.sh
+
+
 Vultr推广链接，有2.5美元一个月的服务器，用推广链接我们都有10美元https://www.vultr.com/?ref=7402505
