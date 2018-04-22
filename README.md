@@ -6,7 +6,7 @@ wget --no-check-certificate https://www.svlik.com/Resources/ShadowsocksR/shadows
 
 
 换内核，会重启
-wget -N --no-check-certificate https://www.svlik.com/Resources/ShadowsocksR/ruisu.sh && bash ruisu.sh
+wget -N --no-check-certificate https://www.svlik.com/Resources/ShadowsocksR/kernel.sh && bash kernel.sh
 
 
 启动锐速
